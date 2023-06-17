@@ -35,5 +35,5 @@ console.log(myDate);
 This results in the following output:
 
 ```shell
-'Thu Jun 17 2023 12:34:30 GMT+0000'
+Thu Jun 17 2023 12:34:30 GMT+0000
 ```
